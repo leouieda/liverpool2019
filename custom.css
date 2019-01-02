@@ -1,0 +1,13 @@
+body {
+  background: #222e49;
+  background-color: #222e49;
+}
+
+.light_color {
+    color: #dddddd;
+}
+
+#talk_title {
+    font-size: 2.2em;
+    margin-bottom: 5%;
+}
