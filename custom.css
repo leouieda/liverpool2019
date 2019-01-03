@@ -1,6 +1,10 @@
 body {
-  background: #222e49;
-  background-color: #222e49;
+    background: #222e49;
+    background-color: #222e49;
+}
+
+section.has-light-background h1 {
+    color: #333333;
 }
 
 .lightcolor {
@@ -28,9 +32,10 @@ body {
     text-shadow: 0 2px 5px #000000dd !important;
 }
 
-.reveal section img {
+.imgshadow {
     border: none;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.80);
+    background: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.80) !important;
 }
 
 .container {
