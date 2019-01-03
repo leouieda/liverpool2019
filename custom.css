@@ -16,7 +16,15 @@ section.has-light-background h1 {
 }
 
 #talktitle {
-    font-size: 2.2em;
+    font-size: 2.0em;
+    margin-bottom: 5%;
+}
+
+.reveal ul.fa-ul {
+    list-style-type: none;
+}
+
+.reveal ul.fa-ul li {
     margin-bottom: 5%;
 }
 
