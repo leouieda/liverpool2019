@@ -3,17 +3,34 @@ body {
   background-color: #222e49;
 }
 
-.light_color {
+.lightcolor {
     color: #dddddd;
 }
 
-.liv_green {
+.livgreen {
     color: #0DBC8E;
 }
 
-#talk_title {
+#talktitle {
     font-size: 2.2em;
     margin-bottom: 5%;
+}
+
+.reveal h1, .reveal h2 {
+    text-shadow: 0 2px 5px #000000dd !important;
+}
+
+.reveal h2 {
+    text-transform: none;
+}
+
+.shadow {
+    text-shadow: 0 2px 5px #000000dd !important;
+}
+
+.reveal section img {
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.80);
 }
 
 .container {
@@ -22,10 +39,18 @@ body {
 }
 
 .col {
-    flex: 50%;
+    flex: 1;
 }
 
 .reveal section img {
     border: none;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.80);
+    box-shadow: none;
+    background: none;
+}
+
+.attribution, .attribution a {
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+    font-size: 0.7em !important;
 }
