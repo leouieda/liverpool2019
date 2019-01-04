@@ -28,12 +28,12 @@ section.has-light-background h1 {
     margin-bottom: 5%;
 }
 
-.reveal h1, .reveal h2 {
+.reveal h1, .reveal h2, .reveal h3  {
     text-shadow: 0 2px 5px #000000dd !important;
 }
 
-.reveal h2 {
-    text-transform: none;
+.reveal h3 {
+	text-transform: none;
 }
 
 .shadow {
