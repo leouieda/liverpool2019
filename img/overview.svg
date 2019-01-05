@@ -20,7 +20,7 @@
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#007e80"
+     pagecolor="#192237"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
@@ -56,7 +56,7 @@
      transform="translate(0,-11.249964)">
     <path
        id="path851"
-       style="opacity:1;fill:#007e80;fill-opacity:1;stroke:#aaccff;stroke-width:5.025;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#007e80;fill-opacity:0.94117647;stroke:#aaccff;stroke-width:5.025;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 317.63334,154.12497 A 63.633339,63.633339 0 0 1 254,217.75831 63.633339,63.633339 0 0 1 190.36666,154.12497 63.633339,63.633339 0 0 1 254,90.491631 63.633339,63.633339 0 0 1 317.63334,154.12497 Z M 0,154.12496 h 190.36668 m 127.26664,-10e-6 190.36667,10e-6 M 254,11.249964 v 79.241675 m 0,127.266641 v 79.24168" />
     <text
        xml:space="preserve"

@@ -201,64 +201,20 @@
     </h1>
 </section>
 
-<section data-background-image="img/moho/gravity-real.svg"
-         data-background-repeat="no-repeat"
-         data-background-opacity="1"
-         data-background-size="contain"
-         data-background-color="#dddddd"
-         data-background-position="center"
-		 data-background-transition="none"
-		 >
-</section>
-
-<section data-background-image="img/moho/gravity-normal.svg"
-         data-background-repeat="no-repeat"
-         data-background-opacity="1"
-         data-background-size="contain"
-         data-background-color="#dddddd"
-         data-background-position="center"
-		 data-background-transition="none"
-		 >
-</section>
-
-<section data-background-image="img/moho/gravity-known.svg"
-         data-background-repeat="no-repeat"
-         data-background-opacity="1"
-         data-background-size="contain"
-         data-background-color="#dddddd"
-         data-background-position="center"
-		 data-background-transition="none"
-		 >
-</section>
-
-<section data-background-image="img/moho/gravity-disturbance.svg"
-         data-background-repeat="no-repeat"
-         data-background-opacity="1"
-         data-background-size="contain"
-         data-background-color="#dddddd"
-         data-background-position="center"
-		 data-background-transition="none"
-		 >
-</section>
-
-<section data-background-image="img/moho/gravity-data.svg"
-         data-background-repeat="no-repeat"
-         data-background-opacity="1"
-         data-background-size="contain"
-         data-background-color="#dddddd"
-         data-background-position="center"
-		 data-background-transition="none"
-		 >
-</section>
-
-<section data-background-image="img/moho/gravity-non-linear.svg"
-         data-background-repeat="no-repeat"
-         data-background-opacity="1"
-         data-background-size="contain"
-         data-background-color="#dddddd"
-         data-background-position="center"
-		 data-background-transition="none"
-		 >
+<section data-background-color="#dddddd">
+	<div class="container" style="margin-bottom:5%; text-align: center;">
+		<div class="col fragment">
+			Gravity disturbances
+			<img src="img/moho/sam-gravity-data.png" width="85%">
+		</div>
+		<div class="col fragment" style="flex: 0.1;">
+			to
+		</div>
+		<div class="col fragment">
+			Moho depth
+			<img src="img/moho/sam-estimate.png" width="85%">
+		</div>
+	</div>
 </section>
 
 <section>
@@ -266,19 +222,21 @@
 	<div class="container" style="margin-bottom:5%;">
 		<div class="col fragment">
 			<h3>Spherical</h3>
-			Using tesseroids
+			<em>Using tesseroids</em>
 		</div>
 		<div class="col fragment">
 			<h3>Fast computation</h3>
-			Modified Bott (1960)
+			<em>Modified Bott (1960)</em>
 		</div>
 	</div>
 	<div class="container" style="">
 		<div class="col fragment">
 			<h3>Seismic constraints</h3>
+			<em>Quantitative validation</em>
 		</div>
 		<div class="col fragment">
 			<h3>Estimate density</h3>
+			<em>Given seismic estimates</em>
 		</div>
 	</div>
 	<span class="attribution">
@@ -286,9 +244,76 @@
 	</span>
 </section>
 
+<section data-background-image="img/moho/sam-processing.png"
+         data-background-repeat="no-repeat"
+         data-background-opacity="1"
+         data-background-size="contain"
+         data-background-color="#dddddd"
+         data-background-position="center"
+		 data-background-transition="none"
+		 >
+</section>
+
+<section data-background-color="#dddddd">
+	<div class="container">
+		<div class="col">
+			<img src="img/moho/sam-seismic-data.png" width="90%">
+		</div>
+		<div class="col" style="margin: auto; font-size: 0.9em;">
+			Seismic estimates
+			<br>
+			as constraints
+			<br>
+			(Assumpção et al., 2013)
+		</div>
+	</div>
+	<span class="attribution">
+	</span>
+</section>
+
+<section data-background-color="#dddddd">
+	<div class="container">
+		<div class="col">
+			<img src="img/moho/sam-estimate2.png" width="90%">
+		</div>
+		<div class="col" style="margin: auto; font-size: 0.9em;">
+			Moho depth of South America
+			<br>
+			<span style="color: #ff9c2a;">Plate boundaries & provinces</span>
+			<br>
+			<span class="math">\Delta \rho = 400\ kg/m^3</span>
+		</div>
+	</div>
+	<span class="attribution">
+	</span>
+</section>
+
 <section>
-	Works for grav. Can be faster, better constraints, more flexible (student).
-	Apply to different places (collab).
+    <h2 style="margin-bottom: 5%;">Future work</h2>
+	<div class="container" style="margin-bottom:5%;">
+		<div class="col fragment">
+			<h3>Method</h3>
+			<div style="font-style: italic; font-size: 0.8em;">
+			Less data restrictions
+			<br>
+			Estimate density directly
+			<br>
+			Thermal correction
+			</div>
+		</div>
+		<div class="col fragment">
+			<h3>Applications</h3>
+			<div style="font-style: italic; font-size: 0.8em;">
+			Sedimentary basins thickness
+			<br>
+			Africa, Antarctica, etc
+			<br>
+			Geodynamics Group (Kusznir)
+			</div>
+		</div>
+	</div>
+	<p class="fragment">NERC funding</p>
+	<p class="fragment">PhD/Postdoc</p>
 </section>
 
 <section>
