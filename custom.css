@@ -29,15 +29,15 @@ section.has-light-background h1 {
 }
 
 .reveal h1, .reveal h2, .reveal h3  {
-    text-shadow: 0 2px 5px #000000dd !important;
+    text-shadow: 3px 4px 5px #000000dd !important;
+}
+
+.shadow, .reveal h4 {
+    text-shadow: 2px 3px 3px #000000dd !important;
 }
 
 .reveal h3 {
 	text-transform: none;
-}
-
-.shadow {
-    text-shadow: 0 2px 5px #000000dd !important;
 }
 
 .imgshadow {
