@@ -58,7 +58,7 @@ section.has-light-background h1 {
 
 .attribution, .attribution a {
     position: fixed;
-    bottom: 0%;
-    right: 0%;
-    font-size: 0.7em !important;
+    bottom: 2%;
+    right: 1%;
+    font-size: 0.6em !important;
 }
