@@ -28,16 +28,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-162.79219"
+     inkscape:cx="561.99226"
      inkscape:cy="28.343158"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
-     inkscape:window-width="3200"
-     inkscape:window-height="1800"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1576"
+     inkscape:window-height="1774"
+     inkscape:window-x="1609"
+     inkscape:window-y="11"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -89,7 +89,7 @@
          inkscape:connector-curvature="0"
          id="path3061"
          d="m 105.39738,1047.2784 c 0.57261,-0.5725 1.0411,-31.8443 1.0411,-69.49285 v -68.4517 h 33.63175 33.63174 l -0.44694,-15.22596 -0.44697,-15.22596 H 90.04129 7.2745112 l -0.4465972,15.19536 -0.4465813,15.19534 34.0217833,0.42102 34.021799,0.42102 0.406652,69.10244 0.40665,69.10239 h 14.559034 c 8.007484,0 15.027539,-0.4683 15.600129,-1.0411 z"
-         style="fill:#afc6e9" />
+         style="fill:#f9f9f9" />
     </g>
     <flowRoot
        xml:space="preserve"
